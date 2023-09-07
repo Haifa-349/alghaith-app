@@ -415,7 +415,7 @@ margin: 30px 0;
 
 #home-img  .img-add{
    width: 60%;
-   height: 260px;
+   height: 240px;
    position:absolute;
    top:15%;
    right: 10%;
@@ -444,7 +444,6 @@ margin: 30px 0;
 #service{
     width:100vw;
     
- 
 }
 #service h2{
     text-align: center;
@@ -556,10 +555,10 @@ margin: 30px 0;
     
 }
 #home-img  .img-add{
-height: 160px;
+height: 180px;
 }
 #home-img  .img-add img{
-    height: 160px;
+    height: 180px;
 }
 #service .container{
     display: flex;
@@ -569,7 +568,7 @@ align-items: center;
 }
 #service .container .card{
     width:100%;
-  
+  margin-right:10px;
 }
 
 }
